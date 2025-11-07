@@ -1,0 +1,573 @@
+{
+  "title": "योगसूत्रानि (Yoga Sūtras)",
+  "chapters": [
+    {
+      "id": 1,
+      "name": "समाधिपादः (Samādhi Pādaḥ)",
+      "name_en": "Chapter on Concentration",
+      "name_zh": "集中心量篇",
+      "sutras": [
+        {
+          "id": "1.1",
+          "sanskrit": "अथ योगानुशासनम्।",
+          "transliteration": "Atha yoga-anuśāsanam.",
+          "pronunciation": "啊-特-瑜伽-怒-沙-萨-那-姆",
+          "english": "Now, the teachings of Yoga begin.",
+          "chinese": "现在开始瑜伽的教导。"
+        },
+        {
+          "id": "1.2",
+          "sanskrit": "योगश्चित्तवृत्तिनिरोधः।",
+          "transliteration": "Yogaś-citta-vṛtti-nirodhaḥ.",
+          "pronunciation": "瑜伽-希-特-特-瓦-里-提-尼-罗-特-哈",
+          "english": "Yoga is the stilling of the fluctuations of the mind.",
+          "chinese": "瑜伽是心灵的波动静止。"
+        },
+        {
+          "id": "1.3",
+          "sanskrit": "तदा द्रष्टुः स्वरूपेऽवस्थानम्।",
+          "transliteration": "Tadā draṣṭuḥ svarūpe'vasthānam.",
+          "pronunciation": "特-达-德-拉-什-特-胡-斯-瓦-鲁-佩-阿-瓦-斯-塔-那-姆",
+          "english": "Then the seer abides in its own nature.",
+          "chinese": "那时，观察者安住于自己的本性中。"
+        },
+        {
+          "id": "1.4",
+          "sanskrit": "वृत्तिसारूप्यमितरत्र।",
+          "transliteration": "Vṛtti-sārūpyam-itaratra.",
+          "pronunciation": "瓦-里-提-萨-鲁-皮-亚-姆-伊-特-拉-特-拉",
+          "english": "At other times, the seer takes the form of the fluctuations of the mind.",
+          "chinese": "在其他时候，观察者呈现心灵波动的形态。"
+        },
+        {
+          "id": "1.5",
+          "sanskrit": "वृत्तयः पञ्चतय्यः क्लिष्टा अक्लिष्टाः।",
+          "transliteration": "Vṛttayaḥ pañcatayyaḥ kliṣṭā akliṣṭāḥ.",
+          "pronunciation": "瓦-里-特-亚-赫 潘-查-特-亚-亚-赫 克-里-什-塔 阿-克-里-什-塔-赫",
+          "english": "The five fluctuations are: painful, not painful, darkening, enlightening, and confining.",
+          "chinese": "波动有五种：苦、乐、暗、明、限。"
+        },
+        {
+          "id": "1.6",
+          "sanskrit": "प्रमाणविपर्ययविकल्पनिद्रास्मृतयः।",
+          "transliteration": "Pramāṇa-viparyaya-vikalpa-nidrā-smṛtayaḥ.",
+          "pronunciation": "普-拉-马-纳 维-帕-尔-亚-亚 维-卡-尔-帕 尼-德-拉 斯-姆-里-特-亚-赫",
+          "english": "They are: correct knowledge, incorrect knowledge, imagination, sleep, and memory.",
+          "chinese": "它们是：正确认知、错误认知、想象、睡眠和记忆。"
+        },
+        {
+          "id": "1.7",
+          "sanskrit": "प्रत्यक्षानुमानागमाः प्रमाणानि।",
+          "transliteration": "Pratyakṣa-anumāna-āgamāḥ pramāṇāni.",
+          "pronunciation": "普-拉-特-亚-克-沙 阿-怒-马-纳 阿-嘎-马-赫 普-拉-马-纳-尼",
+          "english": "The means of knowledge are: direct perception, inference, and reliable testimony.",
+          "chinese": "认知方式有：直接感知、推理和可靠证据。"
+        },
+        {
+          "id": "1.8",
+          "sanskrit": "विपर्ययो मिथ्याज्ञानमतद्रूपप्रतिष्ठम्।",
+          "transliteration": "Viparyayo mithyā-jñānam-atad-rūpa-pratiṣṭham.",
+          "pronunciation": "维-帕-尔-亚-哦 米-特-亚-吉-那-姆 阿-特-特-鲁-帕 普-拉-提-什-特-哈-姆",
+          "english": "Incorrect knowledge is false knowledge based on something that does not exist in that form.",
+          "chinese": "错误认知是建立在非真实形态之上的错误知识。"
+        },
+        {
+          "id": "1.9",
+          "sanskrit": "शब्दज्ञानानुपाती वस्तुशून्यो विकल्पः।",
+          "transliteration": "Śabda-jñāna-anupātī vastu-śūnyo vikalpaḥ.",
+          "pronunciation": "沙-布-德-吉-那-纳 阿-怒-帕-提 瓦-斯-图-舒-尼奥 维-卡-尔-帕-赫",
+          "english": "Imagination is based on words and knowledge and has no basis in reality.",
+          "chinese": "想象基于语言和知识，在现实中没有依据。"
+        },
+        {
+          "id": "1.10",
+          "sanskrit": "अभावप्रत्ययालम्बना वृत्तिर्निद्रा।",
+          "transliteration": "Abhāva-pratyaya-ālambanā vṛttir-nidrā.",
+          "pronunciation": "阿-布-哈-瓦 普-拉-特-亚-亚 阿-兰-巴-纳 瓦-里-提尔 尼-德-拉",
+          "english": "Sleep is based on the modification that has no cognitive content.",
+          "chinese": "睡眠是基于没有认知内容的波动。"
+        },
+        {
+          "id": "1.11",
+          "sanskrit": "अनुभूतविषयासंप्रमोषः स्मृतिः।",
+          "transliteration": "Anubhūta-viṣaya-saṃpramoṣaḥ smṛtiḥ.",
+          "pronunciation": "阿-怒-布-特-瓦 维-沙-亚 桑-普-拉-莫-沙-赫 斯-姆-里-提-赫",
+          "english": "Memory is not allowing the impressions of experiences to slip away.",
+          "chinese": "记忆是不让经验印象流失。"
+        },
+        {
+          "id": "1.12",
+          "sanskrit": "अभ्यासवैराग्याभ्यां तन्निरोधः।",
+          "transliteration": "Abhyāsa-vairāgya-abhyāṁ tan-nirodhaḥ.",
+          "pronunciation": "阿-布-希-亚-萨 维-拉-阿-格-亚 阿-布-希-亚-姆 特-安-尼-罗-特-哈-赫",
+          "english": "Their control is by practice and dispassion.",
+          "chinese": "通过修习和超然来控制它们。"
+        },
+        {
+          "id": "1.13",
+          "sanskrit": "तत्र स्थितौ यत्नोऽभ्यासः।",
+          "transliteration": "Tatra sthitau yatno'bhyāsaḥ.",
+          "pronunciation": "特-特-拉 斯-提-套 亚-特-诺 阿-布-希-亚-萨-赫",
+          "english": "Practice is the effort to achieve steadiness.",
+          "chinese": "修习是为达到稳定不懈的努力。"
+        },
+        {
+          "id": "1.14",
+          "sanskrit": "स तु दीर्घकालनैरन्तर्यसत्कारासेवितो दृढभूमिः।",
+          "transliteration": "Sa tu dīrghakāla-nairantarya-sat-kārāsevito dṛḍha-bhūmiḥ.",
+          "pronunciation": "萨 特-乌 地-尔-格-卡-拉 奈-兰-特-尔-亚 萨-特-卡-拉 萨-维-托 德-里-特-哈 布-乌-米-赫",
+          "english": "This practice becomes firmly grounded through long, constant, attentive, reverent, and meticulous practice.",
+          "chinese": "这种修习通过长期、持续、专注、恭敬、细致的实践而得以稳固。"
+        },
+        {
+          "id": "1.15",
+          "sanskrit": "दृष्टानुश्रविकविषयवितृष्णस्य वशीकारसंज्ञा वैराग्यम्।",
+          "transliteration": "Dṛṣṭa-anuśravika-viṣaya-vitṛṣṇasya vaśī-kāra-saṃjñā vairāgyam.",
+          "pronunciation": "德-里-什-特 阿-怒-沙-拉-维-卡 维-沙-亚 维-特-里-什-纳-斯-亚 瓦-希-卡-拉 桑-格-亚 维-拉-阿-格-亚-姆",
+          "english": "Dispassion is the mastery of the cravings for what is seen or heard.",
+          "chinese": "超然是对所见或所闻之物的欲望控制。"
+        },
+        {
+          "id": "1.16",
+          "sanskrit": "तत्परं पुरुषख्यातेरगुणात्मनः।",
+          "transliteration": "Tat-paraṁ puruṣa-khyāteḥ agunātmanaḥ.",
+          "pronunciation": "特-特-帕-拉-姆 普-鲁-舒-克-希-亚-特-希-赫 阿-古-纳-特-玛-纳-赫",
+          "english": "That is the ultimate realization of the True Self, beyond the qualities of nature.",
+          "chinese": "那就是对真我的终极了悟，超脱于自然属性的束缚。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "साधनपादः (Sādhana Pādaḥ)",
+      "name_en": "Chapter on Practice",
+      "name_zh": "修行精进篇",
+      "sutras": [
+        {
+          "id": "2.1",
+          "sanskrit": "तपःस्वाध्यायेश्वरप्रणिधानानि क्रियायोगः।",
+          "transliteration": "Tapah-svādhyāya-īśvara-praṇidhānāni kriyā-yogaḥ.",
+          "pronunciation": "特-帕-赫 斯-瓦-德-亚-亚 伊-什-瓦-拉 普-拉-尼-特-哈-纳-尼 克-里-亚 瑜伽-赫",
+          "english": "Practice (kriyā-yoga) consists of discipline, self-study, and dedication to Īśvara.",
+          "chinese": "修行包括苦行、自我研习和对神的奉献。"
+        },
+        {
+          "id": "2.2",
+          "sanskrit": "समाधिसिद्धिरीश्वरप्रणिधानात्।",
+          "transliteration": "Samādhi-siddhir-īśvara-praṇidhānāt.",
+          "pronunciation": "萨-马-德-希 西-特-希尔 伊-什-瓦-拉 普-拉-尼-特-哈-纳-特",
+          "english": "Samādhi is attained by devotion to Īśvara.",
+          "chinese": "通过对神的奉献可获得三摩地。"
+        },
+        {
+          "id": "2.27",
+          "sanskrit": "तस्य प्रज्ञाप्रकाशः।",
+          "transliteration": "Tasya prajñā-prakāśaḥ.",
+          "pronunciation": "特-斯-亚 普-拉-吉-那 普-拉-卡-沙-赫",
+          "english": "His illumination is pure wisdom.",
+          "chinese": "他的光明是纯净的智慧。"
+        },
+        {
+          "id": "2.28",
+          "sanskrit": "योगाङ्गानुशासनमथर्वणिधिप्रोक्तम्।",
+          "transliteration": "Yoga-aṅga-anuśāsanam atharvaṇa-īśvara-prōktam.",
+          "pronunciation": "瑜伽-安-嘎 阿-怒-沙-萨-纳-姆 阿-特-瓦-拉-纳 伊-什-瓦-拉 普-罗-克-特-姆",
+          "english": "The disciplines of the eight limbs of Yoga are described in the Atharva Veda.",
+          "chinese": "瑜伽八支分法的戒律在《阿闼婆吠陀》中有阐述。"
+        },
+        {
+          "id": "2.29",
+          "sanskrit": "अहिंसासत्यास्तेयब्रह्मचर्यापरिग्रहा यमाः।",
+          "transliteration": "Ahiṃsā-satya-asteya-brahma-carya aparigrahāḥ yamāḥ.",
+          "pronunciation": "阿-希-姆-萨 萨-特-亚 阿-斯-特-亚 布-拉-赫-玛 查-尔-亚 阿-帕-里-格-拉-哈-赫 亚-马-赫",
+          "english": "The five abstentions (yama): non-violence, truthfulness, non-stealing, continence, non-possessiveness.",
+          "chinese": "五戒：不杀生、不妄语、不偷盗、不淫乱、不贪取。"
+        },
+        {
+          "id": "2.30",
+          "sanskrit": "जपाहौमसंयमा आशिम्।",
+          "transliteration": "Japa-homa-saṃyamāḥ niyamaḥ.",
+          "pronunciation": "贾-帕 霍-玛 桑-亚-马-赫 尼-亚-马-赫",
+          "english": "The five observances (niyama): purification, contentment, austerity, self-study, devotion to Īśvara.",
+          "chinese": "五律：清净、知足、苦行、自学、敬神。"
+        },
+        {
+          "id": "2.31",
+          "sanskrit": "ते ह्यपरिमिता ह्याशुद्धबीजेषु।",
+          "transliteration": "Te hy-aparimitā hi a-śuddha-bījeṣu.",
+          "pronunciation": "特 希-阿-帕-里-米-塔 希 阿-舒-德-哈 比-杰-苏",
+          "english": "These are not limited by class, place, time, or circumstance.",
+          "chinese": "这些不受阶级、地点、时间或环境限制。"
+        },
+        {
+          "id": "2.32",
+          "sanskrit": "हिताहितप्रमाणकरणेऽसत्त्वादबोधात्प्रकृतिपरप्वराणामुपपत्तिः सङ्करश्च तत्कारणम्।",
+          "transliteration": "Hitāhita-pramāṇa-karaṇe asattvād-abodhāt-prakṛti-parāvaraṇām-upapattiḥ saṅkaraś ca tat-kāraṇam.",
+          "pronunciation": "希-特-阿-希-特 普-拉-马-纳 卡-拉-内 阿-萨-特-瓦-特-阿德-阿-波-特-哈-特 普-拉-克-里-提 帕-拉-瓦-拉-纳-姆 乌-帕-帕-提-提-赫 桑-卡-拉-什 查 特-特-卡-拉-纳-姆",
+          "english": "Virtue and vice arise from proper and improper judgment, and are the causes of bondage and liberation.",
+          "chinese": "善恶来自正确和错误的判断，是束缚和解脱的原因。"
+        },
+        {
+          "id": "2.46",
+          "sanskrit": "तत्परं पुरुषख्यातेः।",
+          "transliteration": "Tat-paraṁ puruṣa-khyāteḥ.",
+          "pronunciation": "特-特-帕-拉-姆 普-鲁-舒-克-希-亚-特-希-赫",
+          "english": "This leads to the realization of the True Self.",
+          "chinese": "这导向真我的了悟。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "विभूतिपादः (Vibhūti Pādaḥ)",
+      "name_en": "Chapter on Powers",
+      "name_zh": "神奇成就篇",
+      "sutras": [
+        {
+          "id": "3.1",
+          "sanskrit": "धारणासु योगिनस्स्थितिः।",
+          "transliteration": "Dhāraṇāsu yoginas-sthitiḥ.",
+          "pronunciation": "德-哈-拉-纳-苏 瑜-吉-纳-斯 斯-提-提-赫",
+          "english": "Fixing the mind on a point is concentration.",
+          "chinese": "将心灵专注于一点就是集中。"
+        },
+        {
+          "id": "3.2",
+          "sanskrit": "तस्य भुमिस्तत्र प्रत्ययैकतादयः।",
+          "transliteration": "tasya bhūmiḥ tat-pratyaya-ikatā-dayaḥ.",
+          "pronunciation": "特-斯-亚 布-乌-米-赫 特-特-普-拉-特-亚-亚 伊-卡-塔 达-亚-赫",
+          "english": "In concentration, the mind is held steadily on that point.",
+          "chinese": "在集中时，心灵稳定地保持在那个点上。"
+        },
+        {
+          "id": "3.3",
+          "sanskrit": "तत्र प्रत्ययैकतानता ध्यानम्।",
+          "transliteration": "Tatra pratyaya-ikatānatā dhyānam.",
+          "pronunciation": "特-特-拉 普-拉-特-亚-亚 伊-卡-塔-纳-塔 德-希-亚-纳-姆",
+          "english": "Meditation is the steady continuous flow of attention toward that point.",
+          "chinese": "冥想是对那个点持续稳定的注意流动。"
+        },
+        {
+          "id": "3.4",
+          "sanskrit": "त्रयमेकत्र संयमः।",
+          "transliteration": "Trayam-ekatra saṃyamaḥ.",
+          "pronunciation": "特-拉-亚-姆 伊-卡-特-拉 桑-亚-马-赫",
+          "english": "These three together are Samyama.",
+          "chinese": "这三者合称为三自持（心专注）。"
+        },
+        {
+          "id": "3.5",
+          "sanskrit": "तज्जयात्प्रज्ञाप्रकाशो जयः।",
+          "transliteration": "Taj-jayāt-prajñā-prakāśo jayaḥ.",
+          "pronunciation": "特-特-吉-亚特 普-拉-吉-那 普-拉-卡-沙-哦 吉-亚-赫",
+          "english": "Through mastery of Samyama comes illumination.",
+          "chinese": "通过掌握三自持获得光明。"
+        },
+        {
+          "id": "3.6",
+          "sanskrit": "तस्य भूमिषु विनियोगः।",
+          "transliteration": "Tasya bhūmiṣu viniyogaḥ.",
+          "pronunciation": "特-斯-亚 布-乌-米-舒 维-尼-瑜-嘎-赫",
+          "english": "It is used in stages on different levels.",
+          "chinese": "它在不同层次上分阶段使用。"
+        },
+        {
+          "id": "3.7",
+          "sanskrit": "त्रयमन्तरतरं पूर्वम्।",
+          "transliteration": "Trayam-antarataram pūrvam.",
+          "pronunciation": "特-拉-亚-姆 安-特-拉-特-拉-姆 普-鲁-瓦-姆",
+          "english": "These three are more refined than the previous disciplines.",
+          "chinese": "这三者比先前的戒律更为精细。"
+        },
+        {
+          "id": "3.8",
+          "sanskrit": "तदेव सूक्ष्मतरं तद्ध्यानविसर्गारम्भेभ्यः।",
+          "transliteration": "Tad-eva sūkṣma-taram tad-dhyāna-visarga-ārambhebhyaḥ.",
+          "pronunciation": "特-特-伊-瓦 苏-克-什-玛-特-拉-姆 特-特-德-希-亚-纳 维-萨-尔-嘎 阿-兰-贝-比-亚-赫",
+          "english": "Even this is subtler than the meditation that occurs with seed.",
+          "chinese": "这比有对象的冥想更为微妙。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "कैवल्यपादः (Kaivalya Pādaḥ)",
+      "name_en": "Chapter on Liberation",
+      "name_zh": "解脱自在篇",
+      "sutras": [
+        {
+          "id": "4.1",
+          "sanskrit": "जन्मौषधिमन्त्रतपःसमाधिजाḥ सिद्धयः।",
+          "transliteration": "Janma-oṣadhi-mantra-tapaḥ-samādhi-jāḥ siddhayaḥ.",
+          "pronunciation": "詹-马 奥-舒-德-希 曼-特-拉 特-帕-赫 萨-马-德-希 贾-赫 西-特-德-亚-赫",
+          "english": "The powers arise from birth, herbs, mantra, austerity, or Samādhi.",
+          "chinese": "神通生于出生、药草、咒语、苦行或三摩地。"
+        },
+        {
+          "id": "4.2",
+          "sanskrit": "जात्यन्तरपरिणामः प्रकृत्यापूरात्।",
+          "transliteration": "Jāty-antara pariṇāmaḥ prakṛty-āpūrāt.",
+          "pronunciation": "贾-提 安-特-拉 帕-里-纳-马-赫 普-拉-克-里-提 阿-普-拉-特",
+          "english": "Transmigration is due to the fullness of nature.",
+          "chinese": "轮回是由于自然的充盈。"
+        },
+        {
+          "id": "4.3",
+          "sanskrit": "निमित्तमप्रयोजकं प्रकृतीनां वरणभेदस्ततः।",
+          "transliteration": "Nimittam- aprayojakaṁ prakṛtīnāṁ varaṇa-bhedaḥ tataḥ.",
+          "pronunciation": "尼-米-特-特-姆 阿-普-拉-尤-贾-卡-姆 普-拉-克-里-提-纳-姆 瓦-拉-纳 贝-德-哈 特-特-哈",
+          "english": "The causes are the distinguishing of the gunas, which are not the agent.",
+          "chinese": "原因是属性（德）的辨别，它们不是主体。"
+        },
+        {
+          "id": "4.4",
+          "sanskrit": "निर्माणचित्तान्यन्यमनसः।",
+          "transliteration": "Nirmāṇa-cittāni anya-manasaḥ.",
+          "pronunciation": "尼-尔-马-纳 希-特-塔-尼 安-亚 玛-纳-萨-赫",
+          "english": "Created minds are distinct from the one mind.",
+          "chinese": "被创造的心灵与唯一的心灵是不同的。"
+        },
+        {
+          "id": "4.5",
+          "sanskrit": "चित्तान्तरदृष्टे सर्वार्थता।",
+          "transliteration": "Cittāntara-dṛṣṭe sarvārthatā.",
+          "pronunciation": "希-特-安-特-拉 德-里-什-特 萨-尔-瓦-阿尔-特-塔",
+          "english": "When one mind is clearly seen, all are seen as distinct.",
+          "chinese": "当一个心灵被清晰看见时，所有心灵都被看见为不同的。"
+        },
+        {
+          "id": "4.6",
+          "sanskrit": "तमधिकृत्य कर्मानन्यो विपाकप्रसङ्गोऽन्यः।",
+          "transliteration": "Tam-adhikṛtya karma anyo vipāka-prasaṅgo'nyaḥ.",
+          "pronunciation": "特-姆 阿-德-希-克-里-特-亚 卡-尔-玛 安-尤 维-帕-卡 普-拉-桑-戈 阿-尼亚-赫",
+          "english": "Beyond the seer, action is not performed for the sake of the fruits.",
+          "chinese": "超越观察者，行为不是为了果报而执行。"
+        },
+        {
+          "id": "4.7",
+          "sanskrit": "कर्माशुभाशुभानां फलानां तदात्मकत्वानुपश्यात्।",
+          "transliteration": "Karma-aśubha-aśubhānāṁ phalānāṁ tad-ātmakatva-anupaśyāt.",
+          "pronunciation": "卡-尔-玛 阿-舒-布-哈 阿-舒-布-哈-纳-姆 帕-拉-纳-姆 特-特-阿-特-玛-卡-特-瓦 阿-怒-帕-希-亚-特",
+          "english": "Seer and seen have different fruits according to their relationship.",
+          "chinese": "观察者和被观察的对象根据它们的关系有不同的果报。"
+        },
+        {
+          "id": "4.8",
+          "sanskrit": "ततस्तद्विपाकानुगुणानां स्वस्वामिशक्तीनां संयोगः पतये।",
+          "transliteration": "Tataḥ tad-vipāka-anuguṇānāṁ sva-svāmi-śaktīnāṁ saṃyogaḥ pataye.",
+          "pronunciation": "特-特-哈-赫 特-特-维-帕-卡 阿-怒-古-纳-纳-姆 斯-瓦 斯-瓦-米 沙-克-提-纳-姆 桑-尤-嘎-赫 帕-特-亚-伊",
+          "english": "Then the possessor of the gunas is united with the power of the gunas for the purpose of liberation.",
+          "chinese": "然后，德的拥有者为了解脱的目的与德的力量结合。"
+        },
+        {
+          "id": "4.9",
+          "sanskrit": "संस्कारसाक्षात्करणात्पूर्वरूपसंस्कारयोगात्च।",
+          "transliteration": "Saṃskāra-sākṣāt-karaṇāt pūrva-rūpa-saṃskāra-yogācca.",
+          "pronunciation": "桑-斯-卡-拉 萨-克-沙-特 卡-拉-纳-特 普-鲁-瓦 鲁-帕 桑-斯-卡-拉 尤-嘎-阿-奇-查",
+          "english": "The impressions arise from the memory of past experiences, creating a connection.",
+          "chinese": "印象来自过去经验的记忆，创造连接。"
+        },
+        {
+          "id": "4.10",
+          "sanskrit": "तेषामनादित्वं चास्मरणकारणत्वात्।",
+          "transliteration": "Teṣām-anāditvaṁ ca asmaraṇa-kāraṇatvāt.",
+          "pronunciation": "特-希-阿-姆 阿-纳-迪-特-瓦-姆 查 阿-斯-玛-拉-纳 卡-拉-纳-特-瓦-特",
+          "english": "They have no beginning because they are eternal, and there is no need to remember.",
+          "chinese": "它们没有开始，因为它们是永恒的，不需要记忆。"
+        },
+        {
+          "id": "4.11",
+          "sanskrit": "हेतुफलाश्रयालम्बनैः सङ्घातात्पूर्वेषां।",
+          "transliteration": "Hetu-phala-āśraya-ālambanaiḥ saṃghātāt pūrveṣām.",
+          "pronunciation": "希-特-乌 帕-拉 阿-希-拉-亚 阿-兰-巴-奈-赫 桑-嘎-塔-特 普-鲁-维-希-阿-姆",
+          "english": "The associations of cause, effect, support, purpose, and object create the continuity of impressions.",
+          "chinese": "因、果、支撑、目的和对象的关联创造了印象的连续性。"
+        },
+        {
+          "id": "4.12",
+          "sanskrit": "अतीतानागतं स्वरूपतोऽस्त्यध्वभेदाद्धर्माणाम्।",
+          "transliteration": "Atīta-anāgataṁ svarūpato'sty adhva-bhedād dharmāṇām.",
+          "pronunciation": "阿-提-特 阿-纳-嘎-特-姆 斯-瓦-鲁-帕-托 阿-斯-提 阿-德-瓦 贝-德-哈-特 德-尔-玛-纳-姆",
+          "english": "Past and future exist in their own form, differing only in their modifications.",
+          "chinese": "过去和未来以自己的形式存在，只在它们的转化中有所不同。"
+        },
+        {
+          "id": "4.13",
+          "sanskrit": "ते व्यक्तिसूक्ष्मा गुणात्मानः।",
+          "transliteration": "Te vyakti-sūkṣmā guṇātmānaḥ.",
+          "pronunciation": "特 维-亚-克-提 苏-克-什-玛 古-纳-特-玛-纳-赫",
+          "english": "These are manifest in their subtle and gross forms, consisting of the gunas.",
+          "chinese": "这些以微妙和粗糙的形式显现，由属性构成。"
+        },
+        {
+          "id": "4.14",
+          "sanskrit": "परीष्माहंकररणा विशेषाविशेषलिङ्गमात्रानुगमादुपपत्तौ।",
+          "transliteration": "Parīṣma ahaṅkaraṇā viśeṣa-aviśeṣa-liṅga-mātrānu-āgamād upapattau.",
+          "pronunciation": "帕-里-什-玛 阿-汉-卡-拉-纳 维-希-萨-萨 阿-维-希-萨-萨 林-嘎 马-特-拉 阿-怒 阿-嘎-马-特 乌-帕-帕-特-托",
+          "english": "The cause of all modifications is the interaction of the gunas and the individual nature.",
+          "chinese": "所有变化的原因是属性和个体本质的相互作用。"
+        },
+        {
+          "id": "4.15",
+          "sanskrit": "विशेषदर्शिन आत्मभावभावनानिवृत्तिः।",
+          "transliteration": "Viśeṣa-darśina ātma-bhāva-bhāvanā-nivṛttiḥ.",
+          "pronunciation": "维-希-萨-萨 德-尔-希-纳 阿-特-玛 布-哈-瓦 布-哈-瓦-纳 尼-维-里-提-赫",
+          "english": "When one sees the distinct nature of the gunas, one is free from the cycle of birth.",
+          "chinese": "当一个人看到属性的特殊本质时，他就从生死轮回中解脱。"
+        },
+        {
+          "id": "4.16",
+          "sanskrit": "तदा विवेकख्यातेरतीन्द्रिये बोधेऽवस्थितौ सति कृतार्था प्रज्ञा।",
+          "transliteration": "Tadā viveka-khyāter atīndriye bōdhe'vasthitau sati kṛtārthā prajñā.",
+          "pronunciation": "特-达 维-维-卡 克-希-亚-特-赫 阿-提-因-德-里-耶 博-德-伊 阿-瓦-斯-提-套 萨-提 克-里-特-阿尔-塔 普-拉-吉-那",
+          "english": "Then, when discrimination is supreme, and pure consciousness is established, wisdom becomes fulfilled.",
+          "chinese": "那时，当辨别力至上，纯粹意识确立时，智慧得以圆满。"
+        },
+        {
+          "id": "4.17",
+          "sanskrit": "चित्तस्य योऽन्तरादर्थसम्पत्तिः सा विभूतिः।",
+          "transliteration": "Cittasya yo'ntarād artha-saṃpattiḥ sā vibhūtiḥ.",
+          "pronunciation": "希-特-特-斯-亚 尤 安-特-拉-特 阿尔-特-哈 桑-帕-提-提-赫 萨 维-布-提-赫",
+          "english": "The achievements of the mind internally are called Vibhūti (powers).",
+          "chinese": "心灵内部的成就称为神变（神通）。"
+        },
+        {
+          "id": "4.18",
+          "sanskrit": "तमात्मभावप्रत्ययार्थप्रत्ययीनां निवृत्तेः।",
+          "transliteration": "Tam ātma-bhāva-pratyaya-artha-pratyayīnāṁ nivṛtteḥ.",
+          "pronunciation": "特-姆 阿-特-玛 布-哈-瓦 普-拉-特-亚-亚 阿尔-特-哈 普-拉-特-亚-伊-纳-姆 尼-维-里-特-特-希-赫",
+          "english": "These powers arise from the cessation of the fluctuations of the self-nature.",
+          "chinese": "这些力量来自自我本性波动的止息。"
+        },
+        {
+          "id": "4.19",
+          "sanskrit": "न च तदाविभूतीरतीन्द्रिया देहात्स्वातन्त्र्याल्लिङ्गानुगमात्परमात्मा।",
+          "transliteration": "Na ca tad-ā-vibhūtīr atīndriyā dehāt svātantryāt liṅgānugamāt paramātmā.",
+          "pronunciation": "纳 查 特-特 阿 维-布-提-伊-尔 阿-提-因-德-里-亚 德-哈-特 斯-瓦-安-特-尔-亚-特 林-嘎 阿-怒-嘎-马-特 帕-拉-玛-阿-特-玛",
+          "english": "The Supreme Self is not subject to these powers because it is not affected by the fluctuations.",
+          "chinese": "至上真我不受这些力量影响，因为它不受波动影响。"
+        },
+        {
+          "id": "4.20",
+          "sanskrit": "एकस्मिन्क्लेशव्यापारे कृतार्थेऽन्यव्यापारोऽप्यनर्थकृत्।",
+          "transliteration": "Ekasmin kleśa-vyāpāre kṛtārthe'nya-vyāpāro'py anartha-kṛt.",
+          "pronunciation": "伊-卡-斯-明 克-列-沙 维-亚-帕-雷 克-里-特-阿尔-特-伊 阿-尼亚 维-亚-帕-罗 阿-皮 阿-纳-尔-特-哈 克-里-特",
+          "english": "When one suffering is destroyed, the activities that produce others also cease.",
+          "chinese": "当一种痛苦被毁灭时，产生其他痛苦的活动也停止。"
+        },
+        {
+          "id": "4.21",
+          "sanskrit": "क्रमान्यत्वेऽप्रतिरोकचित्तविषयो विभुः।",
+          "transliteration": "Kramānyate'prati-rodhaka-citta-viṣayo vibhuḥ.",
+          "pronunciation": "克-拉-玛-尼亚-特 伊-普-拉-提 罗-德-哈-卡 希-特-特 维-沙-亚-哦 维-布-胡-赫",
+          "english": "When the seer and the seen are separated, there is omniscience.",
+          "chinese": "当观察者和被观察的对象分离时，就有遍知。"
+        },
+        {
+          "id": "4.22",
+          "sanskrit": "चित्तिवृत्तयः सितातिप्रकाशङ्काश्यवृत्तयः।",
+          "transliteration": "Citti-vṛttayaḥ ati-prakāśaṅkāśya-vṛttayaḥ.",
+          "pronunciation": "希-提 维-里-特-亚-赫 阿-提 普-拉-卡-沙-安-卡-希-亚 维-里-特-亚-赫",
+          "english": "The fluctuations of the mind have the nature of knowledge and non-knowledge.",
+          "chinese": "心灵的波动具有知识和非知识的性质。"
+        },
+        {
+          "id": "4.23",
+          "sanskrit": "जयात्पुरुषार्थः।",
+          "transliteration": "Jayāt puruṣa-arthaḥ.",
+          "pronunciation": "吉-亚-特 普-鲁-舒 阿尔-特-哈-赫",
+          "english": "Through mastery of these, the true purpose of the Purusha is achieved.",
+          "chinese": "通过掌握这些，灵魂的真实目的得以实现。"
+        },
+        {
+          "id": "4.24",
+          "sanskrit": "तद्विवेककौशले शेषे बुद्धौ सावशेषे विभक्ते।",
+          "transliteration": "Tad-viveka-kauśale śeṣe buddhau sā-vaśeṣe vibhakte.",
+          "pronunciation": "特-特-维-维-卡 考-沙-雷 希-希-雷 布-德-哈-套 萨 瓦-希-希-雷 维-布-克-特-伊",
+          "english": "When discrimination is perfected, and consciousness shines forth, the gunas are separated.",
+          "chinese": "当辨别力完善，意识显现时，属性被分离。"
+        },
+        {
+          "id": "4.25",
+          "sanskrit": "तदा चित्तस्य परप्रत्ययत्वान्न च तत्स्वाधीनं तदा।",
+          "transliteration": "Tadā cittasya para-pratyayatvāt na ca tat-svādhīnaṁ tadā.",
+          "pronunciation": "特-达 希-特-特-斯-亚 帕-拉 普-拉-特-亚-亚-特-瓦-特 纳 查 特-特 斯-瓦-德-希-纳-姆 特-达",
+          "english": "Then the mind is in the higher state and is no longer under its own control.",
+          "chinese": "那时，心灵处于更高的状态，不再受自己的控制。"
+        },
+        {
+          "id": "4.26",
+          "sanskrit": "तदा विवेकी भवति नैव चित्राभिधानीयोऽस्ति किञ्चन।",
+          "transliteration": "Tadā vivekī bhavati naiva citrābh dhānīyo'sti kiñcana.",
+          "pronunciation": "特-达 维-维-基 比-瓦-提 奈-瓦 希-特-拉-布 德-哈-尼-尤 阿-斯-提 金-查-纳",
+          "english": "Then the yogi is established in discrimination and nothing remains to be known.",
+          "chinese": "那时，瑜伽士确立在辨别中，没有什么是需要知道的了。"
+        },
+        {
+          "id": "4.27",
+          "sanskrit": "तदा सर्वावरणमलापेतस्य ज्ञानस्यानन्त्याद्ज्ञे मलम्।",
+          "transliteration": "Tadā sarvāvaraṇa-malāpetasya jñānasyānantyāt jñe malam.",
+          "pronunciation": "特-达 萨-尔-瓦 阿-瓦-拉-纳 玛-拉 阿-佩-特-斯-亚 吉-那-斯-亚 南-安-特-亚-特 吉-内 玛-拉-姆",
+          "english": "Then the covering of knowledge is removed, and the impurity of the seer is dispelled.",
+          "chinese": "那时，知识的遮蔽被移除，观察者的不净被驱散。"
+        },
+        {
+          "id": "4.28",
+          "sanskrit": "क्षणप्रतियोगित्वादन्तर्यामिचित्तस्य।",
+          "transliteration": "Kṣaṇa-pratiyogitvād antaryāmi-cittasya.",
+          "pronunciation": "克-沙-纳 普-拉-提-尤-吉-特-瓦-特 安-特-尔-亚-米 希-特-特-斯-亚",
+          "english": "The connection of the inner controller with the mind is momentary.",
+          "chinese": "内在控制者与心灵的连接是瞬间的。"
+        },
+        {
+          "id": "4.29",
+          "sanskrit": "तदसाधकत्वात्सर्वस्य।",
+          "transliteration": "Tad-asādhakatvāt sarvasya.",
+          "pronunciation": "特-特 阿-萨-德-哈-卡-特-瓦-特 萨-尔-瓦-斯-亚",
+          "english": "Because the seer is beyond all modifications.",
+          "chinese": "因为观察者超越所有的变化。"
+        },
+        {
+          "id": "4.30",
+          "sanskrit": "तदा विप्रक्षिप्तिपरमकैवल्यमुत्पन्नम्।",
+          "transliteration": "Tadā viprakṣipti paramakaivalyam utpannam.",
+          "pronunciation": "特-达 维-普-拉-克-希-普-提 帕-拉-玛-卡 凯-瓦-尔-亚-姆 乌-特-潘-纳-姆",
+          "english": "Then supreme Kaivalya arises, free from all fluctuations.",
+          "chinese": "那时至上解脱产生，远离所有波动。"
+        },
+        {
+          "id": "4.31",
+          "sanskrit": "तदा सर्ववर्णकनकप्रभाभासुरमनुभवतोऽनन्तरस्य।",
+          "transliteration": "Tadā sarva-varṇa-kanaka-prabhā-bhāsuraṁ anubhavato'nantaraḥ.",
+          "pronunciation": "特-达 萨-尔-瓦 瓦尔-纳 卡-纳-卡 普-拉-布-哈 布-哈-苏-拉-姆 阿-怒-布-哈-瓦-托 安-南-特-拉-赫",
+          "english": "Then the knowledge of the seer becomes like a precious jewel, illuminating everything.",
+          "chinese": "那时观察者的知识如同珠宝，照亮一切。"
+        },
+        {
+          "id": "4.32",
+          "sanskrit": "एतेन ज्ञानेन्द्रियाणां वृत्तय उक्ता महदवयवा विभूतयोऽन्यथा।",
+          "transliteration": "Etēna jñānēndriyāṇāṁ vṛttayaḥ uktāḥ mahad-āvyavāḥ vibhūtayaḥ anyathā.",
+          "pronunciation": "伊-特-内 吉-那-因-德-里-亚-纳-姆 维-里-特-亚-赫 乌-克-塔-赫 玛-哈德 阿-维-亚-瓦-赫 维-布-提-亚-赫 安-亚-特-哈",
+          "english": "Thus the powers of the senses and the elements are known, and the mind is free from desire.",
+          "chinese": "因此感官和元素的力量被知晓，心灵从欲望中解脱。"
+        },
+        {
+          "id": "4.33",
+          "sanskrit": "क्षणादिपरिणामापरिणामिनौ सूक्ष्मविपाकः।",
+          "transliteration": "Kṣaṇādi-pariṇāma-aparīṇāminau sūkṣma-vipākaḥ.",
+          "pronunciation": "克-沙-纳-迪 帕-里-纳-玛 阿-帕-里-纳-米-瑙 苏-克-什-玛 维-帕-卡-赫",
+          "english": "The subtle transformation occurs in moments and is the cause of both samsara and liberation.",
+          "chinese": "微妙的转化发生在瞬间，是轮回和解脱的原因。"
+        },
+        {
+          "id": "4.34",
+          "sanskrit": "चित्तप्रत्ययावृत्तिस्तु शून्यो निर्गुणोऽप्यनर्थकृत्।",
+          "transliteration": "Citta-pratyaya-vṛttiḥ tu śūnyo nirguṇo'py anartha-kṛt.",
+          "pronunciation": "希-特-特 普-拉-特-亚-亚 维-里-提-赫 特-乌 舒-尼奥 尼尔-古-诺 阿-皮 阿-纳-尔-特-哈 克-里-特",
+          "english": "The fluctuations of the mind are void, without qualities, and do not serve any purpose.",
+          "chinese": "心灵的波动是空性的，没有属性，不服务于任何目的。"
+        }
+      ]
+    }
+  ]
+}

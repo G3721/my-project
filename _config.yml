@@ -1,0 +1,56 @@
+# GitHub Pages 配置文件
+# 告诉GitHub Pages如何构建和部署网站
+
+# 网站基本信息
+title: "瑜伽经三语学习"
+description: "帕坦伽利《瑜伽经》完整三语对照学习网站"
+url: "https://jiyueqi.github.io/yoga-sutras"
+baseurl: "/yoga-sutras"
+
+# 构建设置
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# 插件
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 排除文件
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# 包含文件
+include:
+  - _pages
+
+# SEO设置
+lang: zh-CN
+author: "Yoga Sutras Study Project"
+
+# GitHub Pages特定设置
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# 压缩设置
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false

@@ -1,0 +1,71 @@
+{
+  "note": "这是一个扩展数据文件，展示了如何添加更多瑜伽经文",
+  "usage": "将这些经文添加到 yoga-sutras.json 中对应的章节",
+  "chapter_1_additional": [
+    {
+      "id": "1.5",
+      "sanskrit": "वृत्तयः पञ्चतय्यः क्लिष्टा अक्लिष्टाः।",
+      "transliteration": "Vṛttayaḥ pañcatayyaḥ kliṣṭā akliṣṭāḥ.",
+      "pronunciation": "瓦-里-特-亚-赫 潘-查-特-亚-亚-赫 克-里-什-塔 阿-克-里-什-塔-赫",
+      "english": "The five fluctuations are: painful, not painful, darkening, enlightening, and confining.",
+      "chinese": "波动有五种：苦、乐、暗、明、限。"
+    },
+    {
+      "id": "1.6",
+      "sanskrit": "प्रमाणविपर्ययविकल्पनिद्रास्मृतयः।",
+      "transliteration": "Pramāṇa-viparyaya-vikalpa-nidrā-smṛtayaḥ.",
+      "pronunciation": "普-拉-马-纳 维-帕-尔-亚-亚 维-卡-尔-帕 尼-德-拉 斯-姆-里-特-亚-赫",
+      "english": "They are: correct knowledge, incorrect knowledge, imagination, sleep, and memory.",
+      "chinese": "它们是：正确认知、错误认知、想象、睡眠和记忆。"
+    },
+    {
+      "id": "1.12",
+      "sanskrit": "अभ्यासवैराग्याभ्यां तन्निरोधः।",
+      "transliteration": "Abhyāsa-vairāgya-abhyāṁ tan-nirodhaḥ.",
+      "pronunciation": "阿-布-希-亚-萨 维-拉-阿-格-亚 阿-布-希-亚-姆 特-安-尼-罗-特-哈-赫",
+      "english": "Their control is by practice and dispassion.",
+      "chinese": "通过修习和超然来控制它们。"
+    },
+    {
+      "id": "1.13",
+      "sanskrit": "तत्र स्थितौ यत्नोऽभ्यासः।",
+      "transliteration": "Tatra sthitau yatno'bhyāsaḥ.",
+      "pronunciation": "特-特-拉 斯-提-套 亚-特-诺 阿-布-希-亚-萨-赫",
+      "english": "Practice is the effort to achieve steadiness.",
+      "chinese": "修习是为达到稳定不懈的努力。"
+    },
+    {
+      "id": "1.14",
+      "sanskrit": "स तु दीर्घकालनैरन्तर्यसत्कारासेवितो दृढभूमिः।",
+      "transliteration": "Sa tu dīrghakāla-nairantarya-sat-kārāsevito dṛḍha-bhūmiḥ.",
+      "pronunciation": "萨 特-乌 地-尔-格-卡-拉 奈-兰-特-尔-亚 萨-特-卡-拉 萨-维-托 德-里-特-哈 布-乌-米-赫",
+      "english": "This practice becomes firmly grounded through long, constant, attentive, reverent, and meticulous practice.",
+      "chinese": "这种修习通过长期、持续、专注、恭敬、细致的实践而得以稳固。"
+    }
+  ],
+  "chapter_2_additional": [
+    {
+      "id": "2.32",
+      "sanskrit": "हिताहितप्रमाणकरणेऽसत्त्वादबोधात्प्रकृतिपरप्वराणामुपपत्तिः सङ्करश्च तत्कारणम्।",
+      "transliteration": "Hitāhita-pramāṇa-karaṇe asattvād-abodhāt-prakṛti-parāvaraṇām-upapattiḥ saṅkaraś ca tat-kāraṇam.",
+      "pronunciation": "希-特-阿-希-特 普-拉-马-纳 卡-拉-内 阿-萨-特-瓦-特-阿德-阿-波-特-哈-特 普-拉-克-里-提 帕-拉-瓦-拉-纳-姆 乌-帕-帕-提-提-赫 桑-卡-拉-什 查 特-特-卡-拉-纳-姆",
+      "english": "Virtue and vice arise from proper and improper judgment, and are the causes of bondage and liberation.",
+      "chinese": "善恶来自正确和错误的判断，是束缚和解脱的原因。"
+    },
+    {
+      "id": "2.45",
+      "sanskrit": "समाधिदृढयैतत्सर्वार्थिकं निमित्तम्।",
+      "transliteration": "Samādhi-dṛḍhaya-itat sarvārthikaṁ nimittam.",
+      "pronunciation": "萨-马-德-希 德-里-特-哈-亚 伊-特-特 萨-尔-瓦-阿尔-提-卡-姆 尼-米-特-特-姆",
+      "english": "From firm Samādhi comes the ability to realize all purposes.",
+      "chinese": "从稳固的三摩地中产生实现所有目的的能力。"
+    }
+  ],
+  "customization_tips": [
+    "每个经文需要包含：id, sanskrit, transliteration, pronunciation, english, chinese",
+    "确保梵文使用正确的Devanagari脚本",
+    "发音使用中文拼音系统，便于中国学习者理解",
+    "可以添加音频文件，命名格式：章节-经文编号.mp3",
+    "建议每条经文都配上简洁的英文翻译和易懂的中文释义"
+  ]
+}
